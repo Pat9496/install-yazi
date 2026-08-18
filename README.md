@@ -1,6 +1,23 @@
 # yazi Installer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Shell: Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)](install-yazi.sh)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 Automatic installation script for the [yazi](https://github.com/sxyazi/yazi) terminal file manager on Linux. The script downloads the latest yazi release, installs the binaries into `$HOME/.local/bin`, and optionally sets up a shell wrapper that changes directory on exit.
+
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Shell Integration](#shell-integration)
+- [Updating](#updating)
+- [Supported Architectures](#supported-architectures)
+- [Error Handling](#error-handling)
+- [Uninstallation](#uninstallation)
+- [Credits](#credits)
+- [License](#license)
 
 ## Requirements
 
