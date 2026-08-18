@@ -6,6 +6,8 @@
 
 Automatic installation script for the [yazi](https://github.com/sxyazi/yazi) terminal file manager on Linux. The script downloads the latest yazi release, installs the binaries into `$HOME/.local/bin`, and optionally sets up a shell wrapper that changes directory on exit.
 
+[Deutsche Version](README.de.md)
+
 ## Table of Contents
 
 - [Requirements](#requirements)
